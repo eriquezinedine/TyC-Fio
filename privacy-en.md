@@ -1,6 +1,6 @@
 # Fio — Privacy Policy
 
-_Last updated: September 17, 2026_
+_Last updated: September 18, 2026_
 
 This policy explains what data Fio collects, what it uses it for, and what you can do about it. It is written to be understood, not to hide anything.
 
@@ -50,6 +50,8 @@ You can withdraw your consent at any time; that does not affect processing carri
 
 When you scan a plate, the photo is sent to our servers to be analyzed and to estimate the foods and their calories.
 
+For that analysis we use artificial intelligence models from Google (Gemini) and OpenAI, companies based in the United States. The photo, and whatever meal data is needed to identify the foods, is sent to their servers solely to obtain that result.
+
 The photo stays attached to that meal in your history so you can review it. It is deleted when you delete the meal.
 
 We do not use your photos to identify you, nor to train models shared with third parties without your permission.
@@ -58,7 +60,7 @@ We do not use your photos to identify you, nor to train models shared with third
 
 Infrastructure providers hosting the database and files, under contract and only to provide the service.
 
-Image analysis providers for the meal scanner.
+Google (Gemini) and OpenAI, in the United States, which analyze meal scanner photos to identify the foods and estimate their calories.
 
 Crash reporting and usage analytics services, with aggregated or pseudonymized data.
 
@@ -69,6 +71,8 @@ We never sell your data or hand it to advertisers.
 ## 7. International transfers
 
 Some providers are outside your country. When that happens we rely on standard contractual clauses or other recognized mechanisms to protect your data.
+
+Specifically, meal scanner photos are processed in the United States, on Google (Gemini) and OpenAI servers.
 
 ## 8. How long we keep it
 

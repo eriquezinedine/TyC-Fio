@@ -1,6 +1,6 @@
 # Fio — Política de privacidad
 
-_Última actualización: 17 de septiembre de 2026_
+_Última actualización: 18 de septiembre de 2026_
 
 Esta política explica qué datos recoge Fio, para qué los usa y qué puedes hacer con ellos. Está escrita para que se entienda, no para esconder nada.
 
@@ -50,6 +50,8 @@ Puedes retirar tu consentimiento en cualquier momento; eso no afecta a los trata
 
 Cuando escaneas un plato, la foto se envía a nuestros servidores para analizarla y estimar los alimentos y sus calorías.
 
+Para ese análisis usamos modelos de inteligencia artificial de Google (Gemini) y de OpenAI, empresas con sede en Estados Unidos. La foto, y los datos de la comida que hagan falta para identificar los alimentos, se envían a sus servidores únicamente para obtener ese resultado.
+
 La foto queda asociada a esa comida en tu historial para que puedas consultarla. Se borra cuando borras la comida.
 
 No usamos tus fotos para identificarte ni para entrenar modelos que se compartan con terceros sin tu permiso.
@@ -58,7 +60,7 @@ No usamos tus fotos para identificarte ni para entrenar modelos que se compartan
 
 Proveedores de infraestructura que alojan la base de datos y los archivos, bajo contrato y solo para prestarnos el servicio.
 
-Proveedores de análisis de imagen para el escáner de comidas.
+Google (Gemini) y OpenAI, en Estados Unidos, que analizan las fotos del escáner de comidas para identificar los alimentos y estimar sus calorías.
 
 Servicios de informes de errores y estadísticas de uso, con datos agregados o seudonimizados.
 
@@ -69,6 +71,8 @@ Nunca vendemos tus datos ni los cedemos a anunciantes.
 ## 7. Transferencias internacionales
 
 Algunos proveedores están fuera de tu país. Cuando eso ocurre usamos cláusulas contractuales tipo u otros mecanismos reconocidos para proteger tus datos.
+
+En concreto, las fotos del escáner de comidas se procesan en Estados Unidos, en los servidores de Google (Gemini) y de OpenAI.
 
 ## 8. Cuánto tiempo los guardamos
 
